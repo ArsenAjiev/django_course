@@ -10,3 +10,5 @@ __pycache__/
 # Virtual environments
 .venv/
 venv/
+
+mysite/__pycache__/
